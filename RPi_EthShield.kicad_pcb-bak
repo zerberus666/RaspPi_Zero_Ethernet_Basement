@@ -348,7 +348,7 @@
     (tags "SMD SMT crystal")
     (path /6129FE33)
     (attr smd)
-    (fp_text reference Y1 (at 0 -3.55) (layer F.SilkS)
+    (fp_text reference Y1 (at -10.434 0.508) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Crystal (at 0 3.55) (layer F.Fab)
