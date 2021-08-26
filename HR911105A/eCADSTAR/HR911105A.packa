@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HR911105A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-12-16-16:55:55)
+    (mountForm default
+        (footprintRef "HR911105A")
+        (spec "System")
+    )
+)

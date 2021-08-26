@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DS1233AZ-10+"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-20-10:40:14)
+    (mountForm default
+        (footprintRef "SOT230P700X180-4N")
+        (spec "System")
+    )
+)

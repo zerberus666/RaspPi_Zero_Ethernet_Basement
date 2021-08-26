@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Connector-ML)(type Legacy)(uri C:/projects/_002_KiCad/RPi_Zero_pHat_Template/Connector-ML.lib)(options "")(descr ""))
+  (lib (name MyConnectors)(type Legacy)(uri ${KIPRJMOD}/MyConnectors.lib)(options "")(descr ""))
+  (lib (name RPi_EthShield)(type Legacy)(uri ${KIPRJMOD}/RPi_EthShield.lib)(options "")(descr ""))
+)

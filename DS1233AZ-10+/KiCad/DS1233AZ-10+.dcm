@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS1233AZ-10+
+D 3.3V EconoReset
+K
+F http://docs-emea.rs-online.com/webdocs/0f62/0900766b80f62e31.pdf
+$ENDCMP
+#
+#End Doc Library

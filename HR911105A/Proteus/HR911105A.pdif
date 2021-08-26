@@ -1,0 +1,271 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "HR911105A"
+   (description "Ethernet Connectors/Modular Connectors (RJ45 RJ11) DIP RoHS")
+   (family "CON")
+   (package "HR911105A")
+   (attribute "Datasheet Link" "https://datasheet.lcsc.com/szlcsc/Zhongshan-HanRun-Elec-HR911105A_C12074.pdf")
+   (attribute "Geometry.Height" "13.75mm")
+   (attribute "Manufacturer_Name" "Hanrun Electronics")
+   (attribute "Manufacturer_Part_Number" "HR911105A")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "HR911105A")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+    (pin "10" 10 PS)
+    (pin "11" 11 PS)
+    (pin "12" 12 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "HR911105A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HR911105A"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -12.465 -4.3)
+      (pt 3.575 -4.3)
+      (pt 3.575 17)
+      (pt -12.465 17)
+      (pt -12.465 -4.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -14.417 18)
+      (pt 5.518 18)
+      (pt 5.518 -5.3)
+      (pt -14.417 -5.3)
+      (pt -14.417 18))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.465 5.35)
+      (pt -12.465 5.35)
+      (pt -12.465 17)
+      (pt -12.465 17)
+      (pt -12.465 5.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.575 17)
+      (pt 3.575 17)
+      (pt 3.575 5.6)
+      (pt 3.575 5.6)
+      (pt 3.575 17))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 3.575 1.1)
+      (pt 3.575 1.1)
+      (pt 3.575 -4.3)
+      (pt 3.575 -4.3)
+      (pt 3.575 1.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.465 1.1)
+      (pt -12.465 1.1)
+      (pt -12.465 -4.3)
+      (pt -12.465 -4.3)
+      (pt -12.465 1.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.05 -0.15)
+      (arc (pt 4.050 -0.150) (pt 4.000 -0.150) (pt 4.100 -0.050) (start 180.0) (sweep -90.0))
+      (pt 4.05 -0.05)
+      (arc (pt 4.050 -0.050) (pt 4.000 -0.150) (pt 4.100 -0.050) (start 180.0) (sweep 90.0))
+      (pt 4.05 -0.15)
+      (arc (pt 4.050 -0.150) (pt 4.000 -0.150) (pt 4.100 -0.050) (start 180.0) (sweep -90.0))
+      (pt 4.05 -0.05))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt -1.270 -2.540) (padstack 0))
+   (leg 3 (pt -2.540 0.000) (padstack 0))
+   (leg 4 (pt -3.810 -2.540) (padstack 0))
+   (leg 5 (pt -5.080 0.000) (padstack 0))
+   (leg 6 (pt -6.350 -2.540) (padstack 0))
+   (leg 7 (pt -7.620 0.000) (padstack 0))
+   (leg 8 (pt -8.890 -2.540) (padstack 0))
+   (leg 9 (pt 2.180 11.250) (padstack 9))
+   (leg 10 (pt -0.360 11.250) (padstack 10))
+   (leg 11 (pt -8.530 11.250) (padstack 11))
+   (leg 12 (pt -11.070 11.250) (padstack 12))
+   (leg MH1 (pt 3.300 3.300) (padstack 13))
+   (leg MH2 (pt -12.190 3.300) (padstack 14))
+   (leg MH3 (pt 1.270 6.350) (padstack 15))
+   (leg MH4 (pt -10.160 6.350) (padstack 16))
+   (padstack 0
+    (hole 0.89)
+    (plated true)
+    (pad (layer TCOP) (round 1.446))
+    (pad (layer INNER) (round 1.446))
+    (pad (layer BCOP) (round 1.446))
+   )
+   (padstack 9
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 10
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 11
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 12
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (padstack 13
+    (hole 1.63)
+    (plated true)
+    (pad (layer TCOP) (round 2.445))
+    (pad (layer INNER) (round 2.445))
+    (pad (layer BCOP) (round 2.445))
+   )
+   (padstack 14
+    (hole 1.63)
+    (plated true)
+    (pad (layer TCOP) (round 2.445))
+    (pad (layer INNER) (round 2.445))
+    (pad (layer BCOP) (round 2.445))
+   )
+   (padstack 15
+    (hole 3.25)
+    (plated false)
+    (pad (layer TCOP) (round 1.625))
+    (pad (layer INNER) (round 1.625))
+    (pad (layer BCOP) (round 1.625))
+   )
+   (padstack 16
+    (hole 3.25)
+    (plated false)
+    (pad (layer TCOP) (round 1.625))
+    (pad (layer INNER) (round 1.625))
+    (pad (layer BCOP) (round 1.625))
+   )
+   (model "HR911105A.stp"
+    (euler 90 0 180)
+    (offset 3.490000009536743 17.31999969482422 13.529999732971191)
+   )
+  )
+ )
+)

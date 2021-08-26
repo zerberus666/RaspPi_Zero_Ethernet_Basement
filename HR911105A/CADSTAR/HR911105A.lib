@@ -1,0 +1,19 @@
+.HR911105A :1 ;Ethernet Connectors/Modular Connectors (RJ45 RJ11) DIP RoHS
+HR911105A
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=MH1 14=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="MH1" 14="MH2"
+*MXP 16
+*DFN HR911105A
+~!Manufacturer_Name (Hanrun Electronics)
+~!Manufacturer_Part_Number (HR911105A)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/Zhongshan-HanRun-Elec-HR911105A_C12074.pdf)
+~!Height (13.75mm)
+~!3D_Model (HR911105A)
+HR911105A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Hanrun Electronics
+PartNumber=HR911105A
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.3
+Released=2019-08-26 09:50:57
+Downloaded=2021-08-26 09:50:13
+3D=Y

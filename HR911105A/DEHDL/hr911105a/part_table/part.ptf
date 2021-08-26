@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HR911105A'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hanrun Electronics", "HR911105A" (!) = "", "HR911105A", "Other", "", "", "", "", "Ethernet Connectors/Modular Connectors (RJ45 RJ11) DIP RoHS", "https://datasheet.lcsc.com/szlcsc/Zhongshan-HanRun-Elec-HR911105A_C12074.pdf", "13.75 mm"
+END_PART
+
+END.

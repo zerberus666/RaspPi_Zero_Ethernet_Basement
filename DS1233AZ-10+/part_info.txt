@@ -1,0 +1,9 @@
+Manufacturer=Maxim Integrated
+PartNumber=DS1233AZ-10+
+PartCategory=Integrated Circuit
+PackageCategory=SOT223 (3-Pin)
+PinCount=4
+Version=3.1
+Released=2015-11-27 03:07:16
+Downloaded=2021-08-26 11:32:24
+3D=Y
