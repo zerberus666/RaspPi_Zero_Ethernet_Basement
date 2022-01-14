@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector-ML:RPi_GPIO J2
+L RPi_EthShield-rescue:RPi_GPIO-Connector-ML J2
 U 1 1 5516AE26
 P 7500 2700
 F 0 "J2" H 8250 2950 60  0000 C CNN
@@ -658,7 +658,7 @@ U 1 1 612D0734
 P 2700 3500
 F 0 "IC1" H 3450 3035 50  0000 C CNN
 F 1 "DS1233AZ-10+" H 3450 3126 50  0000 C CNN
-F 2 "symbols:SOT230P700X180-4N" H 4050 3600 50  0001 L CNN
+F 2 "EthShield:DS1233_SOT223" H 4050 3600 50  0001 L CNN
 F 3 "http://docs-emea.rs-online.com/webdocs/0f62/0900766b80f62e31.pdf" H 4050 3500 50  0001 L CNN
 F 4 "3.3V EconoReset" H 4050 3400 50  0001 L CNN "Description"
 F 5 "1.8" H 4050 3300 50  0001 L CNN "Height"
